@@ -1,0 +1,15 @@
+from 1988 English Larousse Gastonomique
+p 1144
+filled waffles
+15g yeast (3%)
+300 cc tepid water (60%)
+500 g flour  (100%)
+125 g butter (25%)
+40 g sugar (8%)
+10g salt (2%)
+
+2" bats  = 15 waffles 4mins in iron
+
+1st try 
+s 10g gluten flour (2%)
+ 490g ap flour (98%)
