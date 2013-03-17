@@ -149,3 +149,15 @@ liquid 67%
 743 g flour 82%
 
 
+----------------------------
+2013-03-17
+straight baguette
+
+440 g water 65%
+680 g flour:
+  34 g ww 5%
+  3 g potato flour .5%
+  7 g buckwheat 1%
+3 g brown sugar .5%
+14 g salt 2%
+
