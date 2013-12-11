@@ -9,6 +9,7 @@ béchamel:
   salt
   pepper
   nutmeg
+  2 eggs
 
 Partially cook
   450 g macaroni
