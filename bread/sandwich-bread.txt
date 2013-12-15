@@ -84,18 +84,18 @@ liquid 67%
 100 g ww flour 11%
 800 g flour 89%
 
-----------------------------    
+----------------------------
 2013-04-21
-440 g water
+440 g water (65%)
 680 g flour:
   26g buckwheat
   30g ww
 7 g brown sugar 1%
 17 g salt 2.5%
 
-----------------------------    
+----------------------------
 2013-05-19
-440 g water
+440 g water (65%)
 680 g flour:
   34 g barley (5%)
   34 g rye (5%)
@@ -105,8 +105,8 @@ liquid 67%
 17 g salt 2.5%
 sage, lemon balm, peppermint, rosemary, oregano, bronze fennel
 
-----------------------------    
-440 g water
+----------------------------
+440 g water (65%)
 680 g flour:
   14 g rye (2%)
   8 g barley (1%)
@@ -114,14 +114,31 @@ sage, lemon balm, peppermint, rosemary, oregano, bronze fennel
 17 g salt (2.5%)
 375° 40m. 
 
-----------------------------    
-440 g liquid
+----------------------------
+2013-12-11
+440 g liquid (65%)
   400 g water
   1 egg
 680 g flour:
   101 g triticale (15%}
-  3 g potatoe (.5%)
+  3 g potato (.5%)
   14 g wheat germ (2%)
   14 g oat bran (2%)
 17 g salt (2.5%)
 14 g dry milk (2%)
+375° 40m. 
+very good, but too short for two loaf pans
+----------------------------
+2013-12-13
+(same as two days ago, but larger loaves)
+535 g liquid (65%)
+  455 g water
+  2 eggs
+820 g flour:
+  123 g triticale (15%)
+  4 g potato
+  16 g wheat germ (2%)
+  16 g oat bran (2%)
+20.5 g salt (2.5%)
+16 g dry milk (2%)
+
