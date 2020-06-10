@@ -109,7 +109,7 @@ sage, lemon balm, peppermint, rosemary, oregano, bronze fennel
   8 g barley (1%)
   33 g ww (5%)
 17 g salt (2.5%)
-375° 40m. 
+375° 40m.
 
 ----------------------------
 2013-12-11
@@ -123,7 +123,7 @@ sage, lemon balm, peppermint, rosemary, oregano, bronze fennel
   14 g oat bran (2%)
 17 g salt (2.5%)
 14 g dry milk (2%)
-375° 40m. 
+375° 40m.
 very good, but too short for two loaf pans
 ----------------------------
 2013-12-13
@@ -163,7 +163,7 @@ good, but short. Add a tiny bit more salt.
   34 g oat bran (4%)
 16 g salt (2%)
 24 g dry milk (3%)
-375° 40m. 
+375° 40m.
 damn fine
 ----------------------------
 2014-02-10
@@ -171,11 +171,33 @@ damn fine
   495 g water
   1 egg
 820 g flour:
-  101 g ww 
+  101 g ww
   4 g potato (.5%)
   32 g wheat germ (4%)
-  71 g oat bran 
+  71 g oat bran
 16 g salt (2%)
 42 g dry milk (3%)
-375° 45m. 
+375° 45m.
 very good
+----------------------------
+2020-04-07
+535 g liquid (65%)
+  495 g water
+  1 egg
+820 g flour:
+  gold medal bread
+  257 g 12.7% king arthur bread
+  150 g sprouted spelt
+  19 g oat bran
+16 g salt (2%)
+375° 45m.
+----------------------------
+2020-06-09
+268 g liquid (65%)
+  228 g water
+  1 egg
+410 g flour:
+  gold medal bread
+  84 g sprouted spelt
+8 g salt (2%)
+375° 45m.
